@@ -1,0 +1,3 @@
+Name : Sirisha Donka
+Course: BSc Data science
+I have learned about how to create repository and how to sign up for git hub
